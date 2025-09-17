@@ -1,0 +1,594 @@
+2025-09-17 13:24:14 - Distraction detected: Looking LEFT
+2025-09-17 13:24:14 - Focus returned after 0.8s distraction
+2025-09-17 13:35:39 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:35:40 - [INFO] Focus returned after 1.3s distraction
+2025-09-17 13:36:13 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:36:13 - [INFO] Focus returned after 0.4s distraction
+2025-09-17 13:36:36 - [WARN] Distraction detected: Looking RIGHT
+2025-09-17 13:36:37 - [INFO] Focus returned after 1.0s distraction
+2025-09-17 13:36:42 - [WARN] Distraction detected: Looking DOWN
+2025-09-17 13:36:43 - [INFO] Focus returned after 1.0s distraction
+2025-09-17 13:37:15 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:17 - [INFO] Focus returned after 1.8s distraction
+2025-09-17 13:37:30 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:31 - [INFO] Focus returned after 0.4s distraction
+2025-09-17 13:37:36 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:38 - [INFO] Focus returned after 1.9s distraction
+2025-09-17 13:37:40 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:41 - [INFO] Focus returned after 1.1s distraction
+2025-09-17 13:37:45 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:47 - [INFO] Focus returned after 2.6s distraction
+2025-09-17 13:37:54 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:54 - [INFO] Focus returned after 0.1s distraction
+2025-09-17 13:37:56 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:37:57 - [INFO] Focus returned after 0.5s distraction
+2025-09-17 13:38:01 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:01 - [INFO] Focus returned after 0.2s distraction
+2025-09-17 13:38:07 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:07 - [INFO] Focus returned after 0.5s distraction
+2025-09-17 13:38:15 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:18 - [INFO] Focus returned after 2.8s distraction
+2025-09-17 13:38:32 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:34 - [INFO] Focus returned after 1.4s distraction
+2025-09-17 13:38:43 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:44 - [INFO] Focus returned after 1.4s distraction
+2025-09-17 13:38:47 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:48 - [INFO] Focus returned after 1.8s distraction
+2025-09-17 13:38:55 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:38:57 - [INFO] Focus returned after 1.7s distraction
+2025-09-17 13:38:59 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:39:08 - [INFO] Focus returned after 8.5s distraction
+2025-09-17 13:39:42 - [WARN] Distraction detected: Looking UP
+2025-09-17 13:39:43 - [INFO] Focus returned after 0.7s distraction
+2025-09-17 13:39:53 - [WARN] Distraction detected: Face not detected
+2025-09-17 13:40:02 - [INFO] Focus returned after 9.3s distraction
+2025-09-17 13:52:13 - [INFO] Calibration - TOP_LEFT: [0.49345361 0.36935693]
+2025-09-17 13:52:14 - [INFO] Calibration - TOP_RIGHT: [0.45440636 0.38706036]
+2025-09-17 13:52:15 - [INFO] Calibration - BOTTOM_RIGHT: [0.47155586 0.3574257 ]
+2025-09-17 13:52:16 - [INFO] Calibration - BOTTOM_LEFT: [0.49793018 0.37420252]
+2025-09-17 13:52:16 - [INFO] Calibration complete
+2025-09-17 13:52:17 - [INFO] Calibration - TOP_LEFT: [0.53754014 0.4096023 ]
+2025-09-17 13:52:18 - [INFO] Calibration - TOP_LEFT: [0.50864062 0.38762529]
+2025-09-17 13:52:19 - [INFO] Calibration - TOP_RIGHT: [0.52860225 0.38078963]
+2025-09-17 13:52:20 - [INFO] Calibration - BOTTOM_RIGHT: [0.52100293 0.38015873]
+2025-09-17 13:52:21 - [INFO] Calibration - BOTTOM_LEFT: [0.45628519 0.39571341]
+2025-09-17 13:52:21 - [INFO] Calibration complete
+2025-09-17 14:08:46 - Monitoring started
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:48 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:49 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:50 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:51 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:52 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:53 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:54 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:55 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:56 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:57 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:58 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:08:59 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:00 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:01 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:02 - Distraction detected: Looking LEFT
+2025-09-17 14:09:03 - Distraction detected: Looking LEFT
+2025-09-17 14:09:03 - Distraction detected: Looking LEFT
+2025-09-17 14:09:03 - Distraction detected: Looking LEFT
+2025-09-17 14:09:03 - Distraction detected: Looking LEFT
+2025-09-17 14:09:03 - Distraction detected: Looking LEFT
+2025-09-17 14:09:03 - Focus returned after 16.6s distraction
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:06 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:07 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Distraction detected: Looking LEFT
+2025-09-17 14:09:08 - Monitoring stopped
+2025-09-17 14:09:37 - Monitoring stopped
+2025-09-17 14:09:48 - [INFO] Calibration - TOP_LEFT: [0.47816918 0.40342643]
+2025-09-17 14:09:49 - [INFO] Calibration - TOP_RIGHT: [0.47435024 0.37984828]
+2025-09-17 14:09:50 - [INFO] Calibration - BOTTOM_RIGHT: [0.46786418 0.38443501]
+2025-09-17 14:09:51 - [INFO] Calibration - BOTTOM_LEFT: [0.467995   0.38182651]
+2025-09-17 14:09:51 - [INFO] Calibration complete
+2025-09-17 14:12:27 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:28 - [INFO] Focus returned after 0.9s distraction
+2025-09-17 14:12:30 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:31 - [INFO] Focus returned after 0.7s distraction
+2025-09-17 14:12:33 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:33 - [INFO] Focus returned after 0.1s distraction
+2025-09-17 14:12:35 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:36 - [INFO] Focus returned after 0.6s distraction
+2025-09-17 14:12:39 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:43 - [INFO] Focus returned after 3.6s distraction
+2025-09-17 14:12:46 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:48 - [INFO] Focus returned after 1.2s distraction
+2025-09-17 14:12:52 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:12:54 - [INFO] Focus returned after 2.1s distraction
+2025-09-17 14:13:14 - [WARN] Distraction detected: Looking LEFT
+2025-09-17 14:13:17 - [INFO] Focus returned after 3.3s distraction
+2025-09-17 14:13:21 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:13:21 - [INFO] Focus returned after 0.3s distraction
+2025-09-17 14:13:26 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:13:27 - [INFO] Focus returned after 1.4s distraction
+2025-09-17 14:13:36 - [WARN] Distraction detected: Face not detected
+2025-09-17 14:13:40 - [INFO] Focus returned after 4.0s distraction
+2025-09-17 14:13:59 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:14:00 - [INFO] Focus returned after 1.0s distraction
+2025-09-17 14:14:57 - [WARN] Distraction detected: Face not detected
+2025-09-17 14:15:00 - [INFO] Focus returned after 2.8s distraction
+2025-09-17 14:15:04 - [WARN] Distraction detected: Face not detected
+2025-09-17 14:15:07 - [INFO] Focus returned after 3.0s distraction
+2025-09-17 14:15:09 - [WARN] Distraction detected: Face not detected
+2025-09-17 14:35:53 - [INFO] Focus returned after 1244.1s distraction
+2025-09-17 14:35:55 - [WARN] Distraction detected: Face not detected
+2025-09-17 14:47:12 - [INFO] Focus returned after 677.0s distraction
+2025-09-17 14:47:14 - [WARN] Distraction detected: Face not detected
+2025-09-17 14:49:20 - [INFO] Focus returned after 126.3s distraction
+2025-09-17 14:54:39 - [WARN] Distraction detected: Looking UP
+2025-09-17 14:54:41 - [INFO] Focus returned after 1.7s distraction
+2025-09-17 15:00:32 - [INFO] Calibration saved: TOP-LEFT -> [306.17142857 324.34285714]
+2025-09-17 15:00:34 - [INFO] Calibration saved: TOP-RIGHT -> [275.0875 303.9375]
+2025-09-17 15:00:36 - [INFO] Calibration saved: BOTTOM-RIGHT -> [294.95121951 312.73170732]
+2025-09-17 15:00:38 - [INFO] Calibration saved: BOTTOM-LEFT -> [330.36585366 329.08536585]
+2025-09-17 15:00:38 - [INFO] Calibration center computed: [301.64400044 317.52435758]
+2025-09-17 15:00:38 - [WARN] Distraction detected: Looking RIGHT
+2025-09-17 15:01:07 - [INFO] Calibration saved: TOP-LEFT -> [312.91176471 313.10294118]
+2025-09-17 15:01:09 - [INFO] Calibration saved: TOP-RIGHT -> [312.74390244 313.87804878]
+2025-09-17 15:01:11 - [INFO] Calibration saved: BOTTOM-RIGHT -> [314.18292683 314.8902439 ]
+2025-09-17 15:01:13 - [INFO] Calibration saved: BOTTOM-LEFT -> [314.20731707 316.62195122]
+2025-09-17 15:01:13 - [INFO] Calibration center computed: [313.51147776 314.62329627]
+2025-09-17 15:01:13 - [WARN] Distraction detected: Looking DOWN
+2025-09-17 15:02:37 - [WARN] Distraction detected: Looking UP
+2025-09-17 15:02:37 - [INFO] Focus returned after 0.1s distraction
+2025-09-17 15:02:43 - [WARN] Distraction detected: Face not detected
+2025-09-17 15:02:49 - [INFO] Focus returned after 6.1s distraction
+[2025-09-17 15:41:47] INFO: Eye tracking calibration completed
+[2025-09-17 15:41:52] INFO: Focus monitoring session started
+[2025-09-17 15:42:24] WARN: Distraction detected: Looking UP
+[2025-09-17 15:42:25] INFO: Focus returned after 0.5s distraction
+[2025-09-17 15:42:36] WARN: Distraction detected: Face not detected
+[2025-09-17 15:42:40] INFO: Focus returned after 3.7s distraction
+[2025-09-17 15:42:45] INFO: Session ended. Duration: 00:00:52
+[2025-09-17 15:43:13] INFO: Focus monitoring session started
+[2025-09-17 15:43:25] WARN: Distraction detected: Looking UP
+[2025-09-17 15:43:32] INFO: Focus returned after 6.3s distraction
+[2025-09-17 15:43:37] WARN: Distraction detected: Looking LEFT
+[2025-09-17 15:43:39] INFO: Focus returned after 1.7s distraction
+[2025-09-17 15:43:42] WARN: Distraction detected: Looking RIGHT
+[2025-09-17 15:43:44] INFO: Focus returned after 1.8s distraction
+[2025-09-17 15:44:02] INFO: Session ended. Duration: 00:00:49
+[2025-09-17 15:48:25] INFO: Eye tracking calibration completed
+[2025-09-17 15:48:38] INFO: Focus monitoring session started
+[2025-09-17 15:49:01] WARN: Distraction detected: Looking UP
+[2025-09-17 15:49:05] INFO: Focus returned after 4.5s distraction
+[2025-09-17 15:49:06] WARN: Distraction detected: Looking UP
+[2025-09-17 15:49:07] INFO: Focus returned after 0.3s distraction
+[2025-09-17 15:49:12] WARN: Distraction detected: Looking UP
+[2025-09-17 15:49:14] INFO: Focus returned after 1.8s distraction
+[2025-09-17 15:49:15] WARN: Distraction detected: Looking LEFT
+[2025-09-17 15:49:16] INFO: Focus returned after 0.9s distraction
+[2025-09-17 15:49:26] WARN: Distraction detected: Looking UP
+[2025-09-17 15:49:27] INFO: Focus returned after 1.2s distraction
+[2025-09-17 15:49:49] INFO: Session ended. Duration: 00:01:10, Focus: 00:00:38 (54.3%)

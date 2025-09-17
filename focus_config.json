@@ -1,0 +1,8 @@
+{
+  "warning_threshold": 10.0,
+  "enable_sound": true,
+  "show_landmarks": true,
+  "break_reminder": 30,
+  "sound_volume": 0.5,
+  "alert_type": "beep"
+}
