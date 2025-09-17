@@ -1,5 +1,3 @@
-# Lyon Hacks II (April 15-17th, 2022)
-
 ## Inspiration 
 - Our team personally had a classmate with ADHD, and he struggled with online learning due to being unable to remain focused for extended periods of time. 
 - This inspired our team to create a software to support him and others with attention problems/disabilities 
